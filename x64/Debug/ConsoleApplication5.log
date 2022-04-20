@@ -1,0 +1,10 @@
+﻿  ConsoleApplication5.cpp
+  complex.cpp
+F:\visualka\ConsoleApplication5\complex.cpp(5,23): warning C4018: <: несоответствие типов со знаком и без знака
+F:\visualka\ConsoleApplication5\complex.cpp(6,27): warning C4018: <: несоответствие типов со знаком и без знака
+F:\visualka\ConsoleApplication5\complex.cpp(16,23): warning C4018: <: несоответствие типов со знаком и без знака
+F:\visualka\ConsoleApplication5\complex.cpp(17,27): warning C4018: <: несоответствие типов со знаком и без знака
+F:\visualka\ConsoleApplication5\complex.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+F:\visualka\ConsoleApplication5\complex.cpp(28,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  ConsoleApplication5.vcxproj -> F:\visualka\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
